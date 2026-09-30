@@ -39,7 +39,7 @@ Source docs in the ZENIAHR project: `claude/zeniahr-content-calendar.md` (what t
 
 ## Tested platform limits (Sep 2026)
 - Image hosting works: public repo `PULPIT221090/zeniahr-social`, raw.githubusercontent.com URLs. Design kit + manifest (running index k) live in `kit/`. Last k used: 13 (15 Oct).
-- MP4 video via the Zoho MCP fails ("try scheduling after some time"). Schedule motion posts with their `_cover.jpg`; list the MP4s in the report so Yogesh can post them as Reels in the Zoho app.
+- MP4 video via the Zoho MCP fails ("try scheduling after some time"). Schedule motion posts with their `_cover.jpg`; list the MP4s in the report so Yogesh can post them as Reels in the Zoho app. A failed video attempt still leaves an empty schedule behind: after any failure, run listSocialSchedules and delete schedules that have no medias.
 - LinkedIn native polls (`poll` key) are rejected with EXTRA_KEY_FOUND_IN_JSON; use the poll image + 'reply A/B/C/D'.
 - Instagram and LinkedIn get SEPARATE schedules (Hinglish IG caption, English LinkedIn caption), same image(s), 10:47 IST. Carousel = several medias.
 - 1–15 Oct 2026 is already scheduled (28 posts). The weekly run must continue from 16 Oct.
