@@ -1,0 +1,155 @@
+[
+ {
+  "k": 0,
+  "date": "2026-10-01",
+  "cat": "product",
+  "theme": "navy",
+  "kind": "image",
+  "files": [
+   "d01_payroll.png"
+  ]
+ },
+ {
+  "k": 1,
+  "date": "2026-10-02",
+  "cat": "fest",
+  "theme": "mist",
+  "kind": "image",
+  "files": [
+   "d02_gandhi.png"
+  ]
+ },
+ {
+  "k": 2,
+  "date": "2026-10-03",
+  "cat": "engage",
+  "theme": "copper",
+  "kind": "image",
+  "files": [
+   "d03_poll.png"
+  ]
+ },
+ {
+  "k": 3,
+  "date": "2026-10-05",
+  "cat": "pf",
+  "theme": "navy",
+  "kind": "carousel",
+  "files": [
+   "d05_pf_1.png",
+   "d05_pf_2.png",
+   "d05_pf_3.png",
+   "d05_pf_4.png"
+  ]
+ },
+ {
+  "k": 4,
+  "date": "2026-10-06",
+  "cat": "esic",
+  "theme": "mist",
+  "kind": "carousel",
+  "files": [
+   "d06_esic_1.png",
+   "d06_esic_2.png",
+   "d06_esic_3.png"
+  ]
+ },
+ {
+  "k": 5,
+  "date": "2026-10-07",
+  "cat": "product",
+  "theme": "copper",
+  "kind": "image",
+  "files": [
+   "d07_gps.png"
+  ]
+ },
+ {
+  "k": 6,
+  "date": "2026-10-08",
+  "cat": "pain",
+  "theme": "navy",
+  "kind": "motion",
+  "files": [
+   "d08_2am.mp4",
+   "d08_2am.gif",
+   "d08_2am.png"
+  ]
+ },
+ {
+  "k": 7,
+  "date": "2026-10-09",
+  "cat": "tender",
+  "theme": "mist",
+  "kind": "image",
+  "files": [
+   "d09_tender.png"
+  ]
+ },
+ {
+  "k": 8,
+  "date": "2026-10-10",
+  "cat": "people",
+  "theme": "copper",
+  "kind": "image",
+  "files": [
+   "d10_night.png"
+  ]
+ },
+ {
+  "k": 9,
+  "date": "2026-10-11",
+  "cat": "fest",
+  "theme": "navy",
+  "kind": "motion",
+  "files": [
+   "d11_navratri.mp4",
+   "d11_navratri.gif",
+   "d11_navratri.png"
+  ]
+ },
+ {
+  "k": 10,
+  "date": "2026-10-12",
+  "cat": "due",
+  "theme": "mist",
+  "kind": "motion",
+  "files": [
+   "d12_due.mp4",
+   "d12_due.gif",
+   "d12_due.png"
+  ]
+ },
+ {
+  "k": 11,
+  "date": "2026-10-13",
+  "cat": "law",
+  "theme": "copper",
+  "kind": "carousel",
+  "files": [
+   "d13_wage_1.png",
+   "d13_wage_2.png",
+   "d13_wage_3.png"
+  ]
+ },
+ {
+  "k": 12,
+  "date": "2026-10-14",
+  "cat": "product",
+  "theme": "navy",
+  "kind": "image",
+  "files": [
+   "d14_calc.png"
+  ]
+ },
+ {
+  "k": 13,
+  "date": "2026-10-15",
+  "cat": "pain",
+  "theme": "mist",
+  "kind": "image",
+  "files": [
+   "d15_myth.png"
+  ]
+ }
+]
